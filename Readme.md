@@ -4,4 +4,4 @@
 
 It is command line version with Java.
 
-Finished on 12 March 2023.
+Finished on 12 Mar. 2023.
